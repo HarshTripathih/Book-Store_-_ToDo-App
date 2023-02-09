@@ -1,0 +1,36 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publisher": "Charles Scribner's Sons",
+      "release_date": "April 10, 1925",
+      "pages": 218
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publisher": "J. B. Lippincott & Co.",
+      "release_date": "July 11, 1960",
+      "pages": 281
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "release_date": "June 8, 1949",
+      "pages": 328
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publisher": "Thomas Egerton",
+      "release_date": "January 28, 1813",
+      "pages": 276
+    }
+  ]
+}
